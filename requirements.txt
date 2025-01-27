@@ -1,0 +1,10 @@
+httpx
+chainlit
+pandas
+plotly
+python-dotenv
+sqlite3
+openai
+logging
+asyncio
+google-generativeai
